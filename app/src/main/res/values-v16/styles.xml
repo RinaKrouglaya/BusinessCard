@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="smallerTextStyle">
+        <item name="android:fontFamily">casual</item>
+        <item name="android:textSize">@dimen/smallerTextSize</item>
+        <item name="android:textColor">@color/textBrownColor</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="biggerTextStyle">
+        <item name="android:fontFamily">casual</item>
+        <item name="android:textSize">@dimen/biggerTextSize</item>
+        <item name="android:textColor">@color/textBrownColor</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:shadowColor">#F44336</item>
+        <item name="android:shadowDx">@dimen/shadow_dimension</item>
+        <item name="android:shadowDy">@dimen/shadow_dimension</item>
+        <item name="android:shadowRadius">@dimen/shadow_radius</item>
+
+
+    </style>
+
+</resources>

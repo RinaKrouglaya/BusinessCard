@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+
+    <string name="text_1">Asif</string>
+    <string name="text_1_add">Pastry Shop</string>
+    <string name="text_2">www.facebook.com/pg/asifkarmiel</string>
+    <string name="text_3">HaHaroshet St. 48, Karmiel</string>
+    <string name="text_4">+97249588960</string>
+    <string name="text_5">www.asif-karmiel.co.il</string>
+
+    <string name="text_6">"https://www.google.com/maps?q=Ha-Kharoshet+st+48+Karmiel+Israel"</string>
+
+</resources>
